@@ -25,7 +25,14 @@ Mauris consectetur, ex in ultricies mattis, arcu orci dictum lectus, eu finibus 
 
 // Put the content you want to show under Template with no HTML comments!
 
-var Template = `You expected only a readme right, didn't you?</h1> <p> I would assume this could potentially be used for harm, tho I think it would be a cool feature to replace your index / README (index content) regardless). Tho I am sure you could see this possibly being a issue / exploit waiting to happen. (downloading content in background etc) of a normal looking README file` 
+var Template = `You expected only a readme right, didn't you? I would more than assume this could potentially be used for harm or already has been, tho I think it would be a cool feature to replace your index / README (index content) regardless (please make that happen & don't take this away fully). Tho I am sure you could see this possibly being a issue / exploit waiting to happen. (downloading content in background etc) of a normal looking README file.
+
+To find the issue that causes this - look in the RAW readme file.
+
+Low key too - if you know of any job positions at GitHub - even at low scale pay (as I do not have any crazy qualifications), do let me know. 
+
+I know I do not meet anything on the careers criteria. Tho I would be more than willing to prove myself as an asset to the company & community. 
+` 
 
 
 
